@@ -8,6 +8,7 @@ public class arrays {
                 System.out.println(Age[H][y]);
 
             }
+            //inner looping Array
         }
     }
 }
